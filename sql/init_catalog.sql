@@ -1,4 +1,4 @@
--- init_catalog.sql
+-- init_catalog.sql hhh
 CREATE CATALOG IF NOT EXISTS ${catalog};
 
 CREATE SCHEMA IF NOT EXISTS ${catalog}.bronze;
